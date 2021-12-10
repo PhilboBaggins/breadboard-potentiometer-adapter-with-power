@@ -1,0 +1,106 @@
+{
+  "uuid": "4de95f8657394eb6613f7b5ac421f844",
+  "path": "Offline/Breadboard%20potentiometer%20adapter(with%20power)",
+  "name": "Breadboard potentiometer adapter(with power)",
+  "content": "",
+  "created_at": "2021-12-11 02:21:15",
+  "updated_at": "2021-12-11 02:37:37",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "17838b408ef0752de69f82b1f865484d",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "21cff8b22c36d3740d8641e462ecd7e1",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "12eb591825f744f9976563840cef6c33": 1,
+        "a68dc5e6a9944c46b7604648a43dcd65": 1,
+        "8c95eef853b1473e9539399823e4b359": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J1",
+          {
+            "BOM_Supplier Part": "C180248",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9f77654394344f25b3de138e0fe05ff6",
+            "uuid": "a68dc5e6a9944c46b7604648a43dcd65"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x3",
+          1,
+          "HDR-M-2.54_2X3",
+          "J2",
+          {
+            "BOM_Supplier Part": "C65114",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "a5b8fff1a45c42f9aa306bafedcb5748",
+            "uuid": "8c95eef853b1473e9539399823e4b359"
+          }
+        ],
+        [
+          "ALPS",
+          1,
+          "RES-ADJ-TH_RK1631110TT3",
+          "R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C370977",
+            "BOM_Manufacturer": "ALPS Electric",
+            "BOM_Manufacturer Part": "RK1631110TT3",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "251ab341190145969f961b591d9bc869",
+            "uuid": "12eb591825f744f9976563840cef6c33"
+          }
+        ]
+      ],
+      "updateTime": 1639150657,
+      "createTime": 1639146355,
+      "histories": [],
+      "created_at": "2021-12-11 01:25:55",
+      "updated_at": "2021-12-11 02:37:37"
+    },
+    {
+      "uuid": "ecd21b1608413ecff9632e8e2af75490",
+      "title": "Breadboard potentiometer adapter- with power",
+      "filename": "Breadboard potentiometer adapter- with power.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a5b8fff1a45c42f9aa306bafedcb5748": 1,
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "251ab341190145969f961b591d9bc869": 1
+      },
+      "BOM": [],
+      "updateTime": 1639150606,
+      "createTime": 1639147651,
+      "histories": [],
+      "created_at": "2021-12-11 01:47:31",
+      "updated_at": "2021-12-11 02:36:46"
+    }
+  ],
+  "sort": [],
+  "title": "Breadboard potentiometer adapter(with power)",
+  "foldername": "Breadboard potentiometer adapter(with power)",
+  "schfilename": "Breadboard potentiometer adapter(with power).json",
+  "schfilemtime": 1639150657403
+}
