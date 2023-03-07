@@ -5,7 +5,7 @@ A tiny little board to make it easier to plug a potentiometer into a breadboard.
 
 This version of the board is meant to sit across the power rails of the breadboard, connecting power and ground to each side of the potentiometer and leaving the potentiometer's wiper connected to the pins labelled "SIG".
 
-See also: https://github.com/PhilboBaggins/breadboard-potentiometer-adapter
+See also: <https://github.com/PhilboBaggins/breadboard-potentiometer-adapter>
 
 ![Photo of assembled board sitting in a breadboard](photo-1.jpg)
 ![Photo of assembled board sitting in a breadboard](photo-2.jpg)
